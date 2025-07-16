@@ -98,7 +98,7 @@ In this exercise, you learn how to create a Microsoft Entra application. This se
 
 1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com) with at least the *Application Administrator* or*Application Developer* role.
 
-1. Expand the **Identity** menu > select **Applications** > **App registrations** > **New registration**.
+1. Expand the **Entra ID** menu > select **App registrations** > **New registration**.
 
 1. Use the following values to create a new Microsoft Entra application and select **Register**.
 
